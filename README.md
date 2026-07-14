@@ -32,7 +32,7 @@
 
 ## 🚀 شروع سریع
 
-**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → []https://sepehr-gamer.github.io/Caspian-panel-4/
+**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → [https://sepehr-gamer.github.io/Caspian-panel-4/]
 
 1. فایل `index.html` رو در مرورگر باز کن.
 2. رمز عبور پیش‌فرض ورود به پنل: **`X4GHUB`**
@@ -47,7 +47,7 @@
 
 اگه این پروژه به کارت اومد، از طریق لینک‌های زیر همراه ما باش:
 
-- 📢 **کانال تلگرام:** [https://sepehr-gamer.github.io/Caspian-panel-4/](https://sepehr-gamer.github.io/Caspian-panel-4/
+- 📢 **کانال تلگرام:** [@PV_Golestaneh]
 <div align="center">
 
 ❤️ ساخته شده با عشق توسط تیم Caspian

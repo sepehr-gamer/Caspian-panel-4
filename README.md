@@ -9,8 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Caspian-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/PV_Golestaneh)
 
 
-### 🌐 [مشاهده دمو زنده پنل](https://x4gking.github.io/Free-Panel/)
-
+### [مشاهده زنده دمو پنل](https://sepehr-gamer.github.io/Caspian-panel-4/)
 </div>
 
 ---
@@ -33,9 +32,7 @@
 
 ## 🚀 شروع سریع
 
-**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → [](https://x4gking.github.io/Free-Panel/)
-
-یا به‌صورت محلی:
+**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → []https://sepehr-gamer.github.io/Caspian-panel-4/
 
 1. فایل `index.html` رو در مرورگر باز کن.
 2. رمز عبور پیش‌فرض ورود به پنل: **`X4GHUB`**
@@ -50,7 +47,7 @@
 
 اگه این پروژه به کارت اومد، از طریق لینک‌های زیر همراه ما باش:
 
-- 📢 **کانال تلگرام:** [telegram.me/X4GHUB](https://telegram.me/X4GHUB)
+- 📢 **کانال تلگرام:** [https://sepehr-gamer.github.io/Caspian-panel-4/](https://sepehr-gamer.github.io/Caspian-panel-4/
 <div align="center">
 
 ❤️ ساخته شده با عشق توسط تیم Caspian
